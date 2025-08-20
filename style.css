@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+background-image: url(https://img.freepik.com/vector-premium/puesta-sol-brillante-paisaje-natural-montana-vector_104785-2040.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+/*Galería de imágenes */
+.imagen_1 img {
+    border-radius: 100px 100px 100px 100px;
+ }
+
+.imagen_2 img {
+    border-radius: 100px 100px 100px 100px;
+        position: absolute;
+        top: 139px;
+        left: 263px;
+    
+    }
+
+.imagen_3 img {
+     border-radius: 100px 100px 100px 100px;
+    position: absolute;
+    top: 125px;
+   left: 147px;
+      
+}
